@@ -1,0 +1,10 @@
+annotated-types==0.6.0
+pyaes==1.6.1
+pydantic==2.6.0
+pydantic-settings==2.1.0
+pydantic_core==2.16.1
+Pyrogram==2.0.106
+PySocks==1.7.1
+python-dotenv==1.0.1
+TgCrypto==1.2.5
+typing_extensions==4.9.0
